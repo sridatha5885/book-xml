@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="books.xsd">
+
+   <book>
+    <title>Operating System Concepts</title>
+    <author>Abraham Silberschatz</author>
+    <isbn>9781118063330</isbn>
+    <publisher>Wiley</publisher>
+    <edition>9</edition>
+    <price>790</price>
+</book>
+   <book>
+    <title>Computer Organization and Architecture</title>
+    <author>William Stallings</author>
+    <isbn>9780134101613</isbn>
+    <publisher>Pearson</publisher>
+    <edition>10</edition>
+    <price>860</price>
+</book>
+</books>
